@@ -1,0 +1,13 @@
+# node and build files
+node_modules/
+dist/
+build/
+
+# env and logs
+.env
+*.log
+
+# ignore only root-level config
+/.vscode/
+/config.js
+/.eslintrc.js
